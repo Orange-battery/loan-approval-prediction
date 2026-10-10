@@ -60,6 +60,4 @@ Problem Definition → Data Collection → Data Understanding → Preprocessing 
 - `Flow_Diagram.png` — project workflow diagram
 - `README.md` — this file
 
-## Team
 
-Group project — AI for Engineers (UCS321), Thapar Institute of Engineering and Technology.
